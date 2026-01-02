@@ -107,6 +107,7 @@ header li{
     justify-content: center;
     flex-direction:column;
     background-color: rgb(253, 245, 236);
+    overflow: hidden;
 }
 .paraph_area{
     text-align: center;
@@ -253,3 +254,4 @@ footer p{
     margin: 2vw;
 
 }
+
